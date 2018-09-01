@@ -31,9 +31,6 @@ function LunchCheckController($scope, $filter) {
             $scope.style = "message_green";
             $scope.border_style = "border_green";
         };
-        console.log($scope.data);
-        console.log(dishes);
-        console.log(trim_dishes);
 
     };
   };
